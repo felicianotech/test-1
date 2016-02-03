@@ -1,4 +1,4 @@
 test:
   override:
     - echo The test passes!
-    - omgthistestfailsthisissolame
+    - ping -c 3 google.com
